@@ -25,19 +25,19 @@ This project is a Pizza Sales Analysis Dashboard built using Power BI. The datas
                     <br><li> <strong>Top-Selling Category – </strong> Classic pizzas sell the most (30% share), followed by Supreme and Veggie (24% each), while Chicken is the least preferred (22%).
                     <br><li> <strong>Best Day for Sales –</strong> Sunday generates the highest revenue ($136K), followed closely by Monday ($134K). Thursday is the weakest ($98K).
                     <br><li> <strong>Sales by Pizza Size –</strong> Large pizzas dominate with 46% of sales, followed by Medium (30%) and Regular (22%), while X-Large and XX-Large contribute less than 2%.
-                    <br><br><li><strong>Top 5 Most Sold Pizzas :</strong>
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Thai Chicken Pizza (1,410)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Classic Deluxe Pizza (1,181)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Hawaiian Pizza (1,020)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Barbecue Chicken Pizza (992)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Pepperoni Pizza (939)
-                    <br><br><li><strong>Bottom 5 Least Sold Pizzas :</strong>
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Calabrese Pizza (562)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Brie Carre Pizza (490)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Soppressata Pizza (405)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Spinach Supreme Pizza (400)
-                            <br>&nbsp;&nbsp;  <b><strong>.&nbsp;</strong></b> Mediterranean Pizza (370)
-                    <br><br><li> <strong>Sales Trends and Category Performance –</strong>  Sales peak on Sundays and Mondays but drop by Thursday, with Classic pizzas leading every day and Chicken pizzas underperforming.
+                    <br><br><li><strong>Top 5 Most Sold Pizzas :</strong><ul>
+                            <li>Thai Chicken Pizza (1,410)
+                            <li> Classic Deluxe Pizza (1,181)
+                            <li> Hawaiian Pizza (1,020)
+                            <li> Barbecue Chicken Pizza (992)
+                            <li> Pepperoni Pizza (939) </ul>
+                    <br><li><strong>Bottom 5 Least Sold Pizzas :</strong><ul>
+                            <li> Calabrese Pizza (562)
+                            <li> Brie Carre Pizza (490)
+                            <li> Soppressata Pizza (405)
+                            <li> Spinach Supreme Pizza (400)
+                            <li> Mediterranean Pizza (370)</ul>
+                    <br><li> <strong>Sales Trends and Category Performance –</strong>  Sales peak on Sundays and Mondays but drop by Thursday, with Classic pizzas leading every day and Chicken pizzas underperforming.
                     <br><li> <strong>Pizza Size Contribution % –</strong> Large pizzas contribute nearly half of all sales (46%), followed by Medium (30%) and Regular (22%), while X-Large and XX-Large sizes are negligible (2%).
                     <br><li> <strong>Best Combination (Size + Category) –</strong> Large Classic pizzas generate the most revenue, combining the leading category and size preference.
                     <br><li> <strong>Underperforming Categories/Sizes –</strong> Chicken category and X-Large/XX-Large sizes underperform, showing weak customer demand compared to others.
